@@ -7,4 +7,4 @@
 - 📫 How to reach me: sanyammehendiratta2000@gmail.com
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
