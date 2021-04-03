@@ -2,6 +2,9 @@
 - 💬 Ask me anything about Python.
 - 📫 How to reach me: sanyammehendiratta2000@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanyam2000-dot&label=Profile%20views&color=0e75b6&style=flat" alt="Sanyam2000-dot" /> </p>
+
+
 ### I am good at:
 <code><img width="40px" src="https://img.icons8.com/color/2x/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
