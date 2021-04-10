@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 💬 Ask me anything about Python.
+
 - 📫 How to reach me: sanyammehendiratta2000@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanyam2000-dot&label=Profile%20views&color=0e75b6&style=flat" alt="Sanyam2000-dot" /> </p>
