@@ -15,6 +15,9 @@
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
+
+![](https://activity-graph.herokuapp.com/graph?username=Sanyam2000-dot&theme=github)
+
 ![Sanyam's Github Stats](https://github-readme-stats.vercel.app/api?username=Sanyam2000-dot&show_icons=true&bg_color=204886,3967A2,204886&title_color=091441&text_color=ffffff&icon_color=091441)
 
 
