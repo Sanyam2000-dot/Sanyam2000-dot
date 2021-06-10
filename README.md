@@ -18,7 +18,7 @@
 
 ![Sanyam's Github Stats](https://github-readme-stats.vercel.app/api?username=Sanyam2000-dot&show_icons=true&theme=dark&count_private=true)
 
-<img width="470"  src="https://github-readme-streak-stats.herokuapp.com/?user=Sanyam2000-dot&theme=dark" alt="sanyam_mehendiratta" />
+<img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=Sanyam2000-dot&theme=dark" alt="sanyam_mehendiratta" />
 
 ![](https://activity-graph.herokuapp.com/graph?username=Sanyam2000-dot&theme=github)
 
