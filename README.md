@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanyam Mehendiratta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/___waitforit__" target="blank"><img src="https://img.shields.io/twitter/follow/___waitforit__?logo=twitter&style=for-the-badge" alt="___waitforit__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/__waitforit___" target="blank"><img src="https://img.shields.io/twitter/follow/___waitforit__?logo=twitter&style=for-the-badge" alt="___waitforit__" /></a> </p>
 
 - 📫 How to reach me **sanyammehendiratta2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/___waitforit__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___waitforit__" height="30" width="40" /></a>
+<a href="https://twitter.com/__waitforit___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___waitforit__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanyam-mehendiratta-2b0640190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyam-mehendiratta-2b0640190" height="30" width="40" /></a>
 <a href="https://instagram.com/sanyam.mehendiratta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanyam.mehendiratta" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sanyam mehendiratta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanyam mehendiratta" height="30" width="40" /></a>
