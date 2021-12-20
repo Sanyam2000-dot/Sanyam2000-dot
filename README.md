@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyam2000-dot&show_icons=true&locale=en" alt="sanyam2000-dot" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Sanyam2000-dot/Sanyam2000-dot/blob/output/github-contribution-grid-snake.gif)
