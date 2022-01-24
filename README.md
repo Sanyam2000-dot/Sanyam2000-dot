@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanyam Mehendiratta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/__waitforit___" target="blank"><img src="https://img.shields.io/twitter/follow/___waitforit__?logo=twitter&style=for-the-badge" alt="___waitforit__" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/__waitforit___" target="blank"><img src="https://img.shields.io/twitter/follow/___waitforit__?logo=twitter&style=for-the-badge" alt="___waitforit__" /></a> </p> -->
 
 - 📫 How to reach me **sanyammehendiratta2000@gmail.com**
 
