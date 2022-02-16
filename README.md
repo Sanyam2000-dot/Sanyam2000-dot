@@ -45,7 +45,7 @@
   <br>
   💻 I'm curious person who loves writing code!
   <br>
-  📚 I’m currently learning how to CI/CD pipelines.
+  📚 I’m currently learning how to create CI/CD pipelines.
   <br>
   📫 How to reach me: <a href="mailto: sanyammehendiratta2000@gmail.com">sanyammehendiratta2000@gmail.com</a>
 </p>
