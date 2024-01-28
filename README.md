@@ -41,12 +41,12 @@
   Hi, I'm Sanyam Mehendiratta, Computer Engineer & Software Developer.
   <br>
   <br>
-  🔬 I'm currently pursuing bachelor's degree in CS from University of Petroleum and Energy Studies.
+  🔬 Data-driven problem solver, BTech in CS + Big Data (UPES).
   <br>
-  💻 I'm curious person who loves writing code!
+  💻 I'm a curious person who loves writing code!
   <br>
-  📚 I’m currently learning how to create CI/CD pipelines.
-  <br>
+<!--   📚 I’m currently learning how to create CI/CD pipelines.
+  <br> -->
   📫 How to reach me: <a href="mailto: sanyammehendiratta2000@gmail.com">sanyammehendiratta2000@gmail.com</a>
 </p>
 
